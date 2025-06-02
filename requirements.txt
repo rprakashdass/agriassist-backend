@@ -1,0 +1,32 @@
+# python 3.12
+# install command `pip install -r requirements.txt`
+
+# Web framework
+fastapi
+fastapi[standard]
+uvicorn
+python-multipart
+
+# Data processing and machine learning
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow
+sentence-transformers
+
+# Image processing
+Pillow
+opencv-python
+matplotlib
+
+# API and environment management
+requests
+python-dotenv
+pydantic
+
+# Database
+chromadb
+
+# AI integration
+google-generativeai
